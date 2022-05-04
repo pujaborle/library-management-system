@@ -1,0 +1,150 @@
+1570115004852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ezio\\AppData\\Local\\Temp\\rust_mozprofiledH4P2v"
+1570115019453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570115019453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570115019453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570115019595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:7\n"
+1570115075450	Marionette	INFO	Listening on port 63731
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15096, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 9828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156872[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/sr8c9/chrome/common/ipc_channel_win.cc, line 341
+[Child 13584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/i86/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9828, Chrome_ChildThre1570115333948	Marionette	INFO	Stopped listening on port 63731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:7\n"
+1570115127896	Marionette	INFO	Listening on port 63830
+1570115128243	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13452, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15396, Chrome_ChildThr[Parent 13452, Gecko_IOThread] WARNING: file z:/task_1568728986/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 13452, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13452, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tasJavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1570115590053	Marionette	INFO	Stopped listening on port 64014
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1554[Parent 6744, Gecko_IOThread] WARNING: pipe error: 232: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+1570115690813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ezio\\AppData\\Local\\Temp\\rust_mozprofile2cO6c7"
+1570115694019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570115694019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570115694019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570115694019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570115698314	Marionette	INFO	Listening on port 64266
+1570115698679	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17861570115750826	Marionette	INFO	Stopped listening on port 64266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16396, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on port 64326
+1570115743378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+1570115757479	Marionette	INFO	Stopped listening on port 64326
+[Child 18276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18276, Chrome_ChildT[Parent 12152, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16364, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1570116057165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ezio\\AppData\\Local\\Temp\\rust_mozprofileDc2bMu"
+1570116057978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570116057978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570116057978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570116057978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1570116061427	Marionette	INFO	Listening on port 64539
+1570116061921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+JavaScript error: http://localhost:8080/LMS/vendor/morris/morris.js, line 78: Error: Graph container element not found
+[Child 4776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4776, Chr[Parent 11880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 169JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-select/bootstrap-select.js, line 868: TypeError: $(...).data(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/off-canvas.js, line 15: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/vendor/bootstrap-datepicker/bootstrap-datepicker.js, line 1655: TypeError: $(...).on is not a function
+JavaScript error: http://localhost:8080/LMS/js/main.js, line 82: TypeError: $(...).on is not a function
+[Parent 11880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8540, Chrome_ChildTh[Parent 11880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11880, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Child 2836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1568728986/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child1570118922630	Marionette	INFO	Stopped listening on port 64539
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4588, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
